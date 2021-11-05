@@ -1,1 +1,1 @@
-<?php require_once("html/perfilAlumno.html")>
+<?php require_once("perfilAlumno.html")>
